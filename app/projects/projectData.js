@@ -3,7 +3,7 @@ const projectList = [
     slug: "y3bridgepractice",
     title: "Year 3 Concrete Pedestrian Bridge",
     desc: "A practical hands-on project of building a concrete footbridge as part of our Construction Practice module.",
-    img: "/images/Y3_BridgePractice.jpg",
+    img: "/images/Y3_BridgePractice.png",
     content: `As part of an optional module, I attended a residential week at the Constructionarium, where we were tasked with building a full-scale concrete pedestrian footbridge. In my role as Formwork Leader, I planned, organised, and constructed all formwork for the project. I also gained learning experiences working alongside the surveying, reinforcement, and waste management teams, broadening my practical understanding of the construction process. Through this time, I gained valuable insight into working under increasing time pressure and collaborating effectively within my team and across a range of disciplines.`,
   },
   {
